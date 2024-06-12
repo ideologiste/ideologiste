@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from French!
+<h3 align="center">A passionate developer from French!
 </h3>
 
 <img alin ="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
