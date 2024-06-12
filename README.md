@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from French![image](https://github.com/ideologiste/ideologiste/assets/167098365/f5359566-0ca2-45df-846b-ccdf649d6e95)
+</h3>
 
 <img alin ="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
